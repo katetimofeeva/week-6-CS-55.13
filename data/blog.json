@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding JavaScript Closures",
+    "author": 1,
+    "date": "2023-09-10",
+    "content": "Closures are a fundamental concept in JavaScript. They allow a function to access variables from an outer function even after the outer function has returned. This makes closures an important tool for managing scope and state in JavaScript applications.",
+    "tags": ["JavaScript", "Closures", "Functions"]
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Next.js",
+    "author": 1,
+    "date": "2023-08-15",
+    "content": "Next.js is a popular React framework that enables server-side rendering and static site generation. It simplifies the process of building React applications by providing an easy-to-use structure and tooling for building scalable web applications.",
+    "tags": ["Next.js", "React", "SSR"]
+  },
+  {
+    "id": 3,
+    "title": "CSS Grid vs Flexbox",
+    "author": 2,
+    "date": "2023-07-30",
+    "content": "CSS Grid and Flexbox are two powerful layout systems in CSS. While Flexbox is one-dimensional and is best used for laying out items in a single direction, CSS Grid is two-dimensional and provides more flexibility for creating complex layouts.",
+    "tags": ["CSS", "Grid", "Flexbox", "Layouts"]
+  },
+  {
+    "id": 4,
+    "title": "Boosting Performance with Lazy Loading",
+    "author": 1,
+    "date": "2023-06-25",
+    "content": "Lazy loading is a technique used to defer the loading of resources until they are actually needed. This can greatly improve the performance of your website by reducing the initial page load time and saving bandwidth.",
+    "tags": ["Performance", "Lazy Loading", "Web Development"]
+  },
+  {
+    "id": 5,
+    "title": "Understanding Asynchronous JavaScript",
+    "author": 2,
+    "date": "2023-05-10",
+    "content": "Asynchronous programming in JavaScript is crucial for handling tasks like API calls and file I/O without blocking the main thread. Understanding async/await, promises, and callbacks can help you write more efficient and responsive applications.",
+    "tags": ["JavaScript", "Async", "Promises", "API"]
+  },
+  {
+    "id": 6,
+    "title": "Building Reusable Components in React",
+    "author": 5,
+    "date": "2023-04-12",
+    "content": "Reusable components are a key part of building scalable React applications. By creating components that can be reused across different parts of your application, you can reduce duplication and maintain consistency.",
+    "tags": ["React", "Components", "Reusable Code"]
+  }
+]
